@@ -8,3 +8,6 @@ New edit Github editing
 conflicting against b1
 
 This is b2 text
+This is b2 text
+
+I'm making conflict! haha
