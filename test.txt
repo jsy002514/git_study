@@ -4,3 +4,5 @@ This is branch text in issue1
 This is branch2 text
 This is issue3
 New edit Github editing
+
+This is b2 text
