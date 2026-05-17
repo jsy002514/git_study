@@ -1,10 +1,2 @@
 
-This is Testmode text in GDGoC\n
-This is branch text in issue1
-This is branch2 text
-This is issue3
-New edit Github editing
-
-conflicting against b1
-
-This is b2 text
+b2 왔다감
